@@ -1,0 +1,20 @@
+.formulario{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 500px;
+    margin: auto;
+}
+
+.campo{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.25rem;
+}
+
+label{
+    margin-bottom: 5px;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+}
