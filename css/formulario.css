@@ -14,7 +14,18 @@ label{
     margin-bottom: 5px;
 }
 
-input{
+input,
+textarea,
+select{
     width: 100%;
     padding: 8px;
+}
+
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    margin: 40px 0;
 }
